@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.web.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="JAG.ca.mcmahon.controllers.FXMLGmailApplicationController">
+   <top>
+      <MenuBar prefHeight="27.0" prefWidth="600.0" styleClass="mainBackgroundColor" stylesheets="@../styles/Styles.css" BorderPane.alignment="CENTER">
+        <menus>
+          <Menu fx:id="menuFike" mnemonicParsing="false" styleClass="label" text="%file">
+            <items>
+                  <MenuItem fx:id="menuItemNewMessage" mnemonicParsing="false" onAction="#menuItemNewMessageClick" styleClass="menuItems" text="%newnessage" />
+              <MenuItem fx:id="menuItemClose" mnemonicParsing="false" onAction="#menuItemCloseClick" styleClass="menuItems" text="%close" />
+            </items>
+          </Menu>
+          <Menu fx:id="menuEdit" mnemonicParsing="false" styleClass="label" text="%edit">
+            <items>
+              <MenuItem fx:id="menuItemDelete" mnemonicParsing="false" onAction="#menuItemDeleteClick" styleClass="menuItems" text="%delete" />
+                  <MenuItem fx:id="menuItemConnectionProperties" mnemonicParsing="false" onAction="#menuItemConnectionPropertiesClick" styleClass="menuItems" text="%connectionproperties" />
+            </items>
+          </Menu>
+          <Menu fx:id="menuHelp" mnemonicParsing="false" styleClass="label" text="%help">
+            <items>
+              <MenuItem fx:id="menuItemAbout" mnemonicParsing="false" onAction="#menuItemAboutClick" styleClass="menuItems" text="%about" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <top>
+            <ToolBar prefHeight="35.0" prefWidth="1280.0" styleClass="mainBackgroundColor" stylesheets="@../styles/Styles.css" BorderPane.alignment="CENTER">
+              <items>
+                <Button fx:id="buttonConnectionProperties" mnemonicParsing="false" onAction="#buttonConnectionPropertiesClick" text="%connectionproperties" />
+                  <Button fx:id="buttonNewMessage" mnemonicParsing="false" onAction="#buttonNewMessageClick" text="%new" />
+                  <Button fx:id="buttonDelete" mnemonicParsing="false" onAction="#buttonDeleteClick" text="%delete" />
+                  <Label fx:id="labelSearch" stylesheets="@../styles/Styles.css" text="%search" />
+                  <TextField fx:id="textFieldSearch" prefHeight="25.0" prefWidth="343.0" />
+                  <ComboBox fx:id="combocBoxSearch"  prefHeight="25.0" prefWidth="131.0" styleClass="comboBox" stylesheets="@../styles/Styles.css" />
+                  <Button fx:id="buttonSearch" mnemonicParsing="false" onAction="#buttonSearchClick" stylesheets="@../styles/Styles.css" text="%search" />
+                  <ComboBox fx:id="comboBoxLanguage" nodeOrientation="RIGHT_TO_LEFT" onAction="#comboBoxLanguageSelectionChanged" prefHeight="25.0" prefWidth="88.0" styleClass="comboBox" stylesheets="@../styles/Styles.css" />
+              </items>
+            </ToolBar>
+         </top>
+         <center>
+            <SplitPane dividerPositions="0.5" minHeight="-Infinity" minWidth="-Infinity" prefHeight="622.0" prefWidth="1280.0" BorderPane.alignment="CENTER">
+              <items>
+                  <BorderPane prefHeight="200.0" prefWidth="200.0">
+                     <bottom>
+                        <ToolBar prefHeight="40.0" prefWidth="200.0" styleClass="mainBackgroundColor" stylesheets="@../styles/Styles.css" BorderPane.alignment="CENTER">
+                          <items>
+                            <Button fx:id="buttonNewFolder" mnemonicParsing="false" onAction="#buttonNewFolderClick" stylesheets="@../styles/Styles.css" text="%newfolder" />
+                              <Button fx:id="buttonDeleteFolder" mnemonicParsing="false" onAction="#buttonDeleteFolderClick" stylesheets="@../styles/Styles.css" text="%deletefolder" />
+                          </items>
+                        </ToolBar>
+                     </bottom>
+                     <center>
+                        <TreeView fx:id="treeViewFolders" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+                     </center>
+                  </BorderPane>
+                <AnchorPane minHeight="0.0" minWidth="500.0" prefHeight="656.0" prefWidth="146.0">
+                     <children>
+                        <SplitPane dividerPositions="0.5" layoutY="-1.0" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="658.0" prefWidth="894.0" AnchorPane.bottomAnchor="-1.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="-1.0">
+                          <items>
+                            <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+                                 <children>
+                                    <TableView fx:id="tableViewMessages" prefHeight="307.0" prefWidth="894.0" styleClass="table-header-cell" stylesheets="@../styles/Styles.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="-2.0" AnchorPane.topAnchor="0.0">
+                                      <columns>
+                                        <TableColumn fx:id="tableColumnFrom" prefWidth="153.0" text="%from" />
+                                          <TableColumn fx:id="tableColumnSubject" minWidth="0.0" prefWidth="525.0" text="%subject" />
+                                          <TableColumn fx:id="tableColumnDate" minWidth="0.0" prefWidth="151.0" text="%date" />
+                                      </columns>
+                                       <columnResizePolicy>
+                                          <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                                       </columnResizePolicy>
+                                    </TableView>
+                                 </children>
+                              </AnchorPane>
+                              <BorderPane prefHeight="200.0" prefWidth="200.0">
+                                 <center>
+                                    <WebView fx:id="webView" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+                                 </center>
+                                 <top>
+                                    <ToolBar prefHeight="40.0" prefWidth="200.0" styleClass="mainBackgroundColor" stylesheets="@../styles/Styles.css" BorderPane.alignment="CENTER">
+                                      <items>
+                                        <Button fx:id="buttonForward" mnemonicParsing="false" onAction="#buttonForwardClick" stylesheets="@../styles/Styles.css" text="%forward" />
+                                          <Button fx:id="buttonReply" mnemonicParsing="false" onAction="#buttonReplyClick" stylesheets="@../styles/Styles.css" text="%reply" />
+                                          <ComboBox fx:id="comboBoxAttachments" prefHeight="25.0" prefWidth="288.0" />
+                                          <Button fx:id="btnSave" mnemonicParsing="false" onAction="#btnSaveClick" text="%save" />
+                                      </items>
+                                    </ToolBar>
+                                 </top>
+                              </BorderPane>
+                          </items>
+                        </SplitPane>
+                     </children>
+                  </AnchorPane>
+              </items>
+            </SplitPane>
+         </center>
+      </BorderPane>
+   </center>
+   <bottom>
+      <ToolBar prefHeight="35.0" prefWidth="1280.0" styleClass="mainBackgroundColor" stylesheets="@../styles/Styles.css" BorderPane.alignment="CENTER" />
+   </bottom>
+</BorderPane>

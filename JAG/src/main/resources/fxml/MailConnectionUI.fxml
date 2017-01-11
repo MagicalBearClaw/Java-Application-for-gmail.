@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.GridPane?>
+<?import JAG.ca.mcmahon.custom.nodes.NumberTextField?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="744.0" styleClass="mainBackgroundColor" stylesheets="@../styles/Styles.css" vgap="25.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="JAG.ca.mcmahon.controllers.FXMLMailConnectionUIController">
+  <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="295.0" minWidth="10.0" prefWidth="88.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="295.0" minWidth="10.0" prefWidth="105.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="506.0" minWidth="10.0" prefWidth="489.0" />
+      <ColumnConstraints hgrow="SOMETIMES" maxWidth="491.0" minWidth="10.0" prefWidth="72.0" />
+  </columnConstraints>
+  <rowConstraints>
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <HBox alignment="CENTER" prefHeight="31.0" prefWidth="179.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+         <children>
+            <Label prefHeight="31.0" prefWidth="355.0" stylesheets="@../styles/Styles.css" text="%name" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+         <children>
+            <Label prefHeight="31.0" prefWidth="480.0" stylesheets="@../styles/Styles.css" text="%imap" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="3">
+         <children>
+            <Label prefHeight="87.0" prefWidth="576.0" stylesheets="@../styles/Styles.css" text="%imapport" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+         <children>
+            <Label prefHeight="118.0" prefWidth="740.0" stylesheets="@../styles/Styles.css" text="%smtp" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="5">
+         <children>
+            <Label prefHeight="87.0" prefWidth="596.0" stylesheets="@../styles/Styles.css" text="%smtpport" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="6">
+         <children>
+            <Label prefHeight="103.0" prefWidth="634.0" stylesheets="@../styles/Styles.css" text="%email" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="7">
+         <children>
+            <Label prefHeight="89.0" prefWidth="597.0" stylesheets="@../styles/Styles.css" text="%password" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="8">
+         <children>
+            <Label prefHeight="72.0" prefWidth="771.0" stylesheets="@../styles/Styles.css" text="%mysqlurl" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="9">
+         <children>
+            <Label prefHeight="92.0" prefWidth="689.0" stylesheets="@../styles/Styles.css" text="%mysqlport" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="10">
+         <children>
+            <Label prefHeight="94.0" prefWidth="655.0" stylesheets="@../styles/Styles.css" text="%mysqluser" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="11">
+         <children>
+            <Label prefHeight="59.0" prefWidth="515.0" stylesheets="@../styles/Styles.css" text="%mysqlpass" textAlignment="JUSTIFY" HBox.hgrow="ALWAYS" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+         <children>
+            <TextField fx:id="editTextName" prefHeight="25.0" prefWidth="739.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+         <children>
+            <TextField fx:id="editTextImapAddress" prefHeight="72.0" prefWidth="539.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="3">
+         <children>
+            <NumberTextField fx:id="editTextImapPort" prefHeight="63.0" prefWidth="601.0" ></NumberTextField>
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="4">
+         <children>
+            <TextField fx:id="editTextSmtpAddress" prefHeight="57.0" prefWidth="488.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="5">
+         <children>
+            <NumberTextField fx:id="editTextSmtpPort" prefHeight="78.0" prefWidth="720.0" ></NumberTextField>
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="6">
+         <children>
+            <TextField fx:id="editTextEmail" prefHeight="51.0" prefWidth="614.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="7">
+         <children>
+            <PasswordField fx:id="editTextPassword" prefHeight="25.0" prefWidth="519.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="8">
+         <children>
+            <TextField fx:id="editTextMysqlUrl" prefHeight="61.0" prefWidth="509.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="9">
+         <children>
+            <NumberTextField fx:id="editTextMysqlPort" prefHeight="25.0" prefWidth="651.0" ></NumberTextField>
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="10">
+         <children>
+            <TextField fx:id="editTextMysqlUsername" prefHeight="109.0" prefWidth="1008.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="11">
+         <children>
+            <PasswordField fx:id="editTextMysqlPassword" prefHeight="25.0" prefWidth="514.0" />
+         </children>
+      </HBox>
+      <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.rowIndex="13" GridPane.rowSpan="2">
+         <children>
+            <GridPane hgap="10.0">
+              <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="215.0" minWidth="10.0" prefWidth="126.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="227.0" minWidth="10.0" prefWidth="145.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="168.0" minWidth="10.0" prefWidth="159.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <HBox prefHeight="35.0" prefWidth="225.0" GridPane.columnIndex="2" GridPane.rowSpan="2">
+                     <children>
+                        <Button fx:id="buttonCancel" mnemonicParsing="false" onAction="#onButtonCancelClick" prefHeight="35.0" prefWidth="209.0" stylesheets="@../styles/Styles.css" text="%cancel" />
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowSpan="2">
+                     <children>
+                        <Button fx:id="buttonConnect" mnemonicParsing="false" onAction="#onButtonConnectClick" prefHeight="63.0" prefWidth="306.0" stylesheets="@../styles/Styles.css" text="%save" />
+                     </children>
+                  </HBox>
+               </children>
+            </GridPane>
+         </children>
+      </HBox>
+   </children>
+</GridPane>
