@@ -1144,10 +1144,7 @@ public class FXMLGmailApplicationController
     	} 
     	catch (SQLException se) 
     	{
-			Alert errorAlert =  new Alert(AlertType.ERROR);
-			errorAlert.setContentText(se.getMessage());
-			errorAlert.setHeaderText("Database Connection error");
-			errorAlert.showAndWait();
+    		log.error("could not connect to database.");
 		}
     	return isLoaded;
     }

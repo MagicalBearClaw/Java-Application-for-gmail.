@@ -6980,3 +6980,25 @@ javafx.fxml.LoadException: Error resolving onAction='#combocBoxSearchSelectionCh
 [DEBUG] 2015-12-15 23:44:25.164 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <div dir="ltr"><img src="image.png" width="544" height="245"><br><img src="cid:ii_ii8bi2671_151a90bb1f04813a" width="144" height="90"><br>?<br><div><img src="http://www.thinkstockphotos.ca/CMS/StaticContent/Hero/TS_AnonHP_462882495_01.jpg" width="497" height="430"><br><img class="irc_mi" style="margin-top: 153px;" src="http://www.quicksprout.com/images/foggygoldengatebridge.jpg" width="480" height="320"><br></div><div><br></div></div>
 
 [DEBUG] 2015-12-15 23:44:25.166 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 14:28:17.573 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 14:42:46.638 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 14:48:52.250 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[WARN ] 2017-01-15 14:48:52.257 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[WARN ] 2017-01-15 14:48:52.310 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[DEBUG] 2017-01-15 14:55:14.715 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 14:58:14.469 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[ERROR] 2017-01-15 14:58:16.630 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
+[ERROR] 2017-01-15 14:58:18.704 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
+[ERROR] 2017-01-15 14:58:47.251 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
+[DEBUG] 2017-01-15 14:59:50.680 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[WARN ] 2017-01-15 14:59:50.689 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[WARN ] 2017-01-15 14:59:50.831 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[DEBUG] 2017-01-15 15:04:57.867 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[WARN ] 2017-01-15 15:04:57.874 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[WARN ] 2017-01-15 15:04:57.935 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[ERROR] 2017-01-15 15:05:51.767 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
+[DEBUG] 2017-01-15 15:09:55.091 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[ERROR] 2017-01-15 15:09:57.214 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
+[ERROR] 2017-01-15 15:09:59.286 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
+[DEBUG] 2017-01-15 15:11:08.979 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 15:20:03.705 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom

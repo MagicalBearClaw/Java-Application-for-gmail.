@@ -147,7 +147,6 @@ public class FXMLMailConnectionUIController {
     		errorMessage.append("-The mysql password cannot be null.\n");
     		isAllfieldsVaild = false;
     	}
-    	
     	try
     	{
     		int smtpPort = Integer.parseInt(editTextSmtpPort.getText());
