@@ -63,9 +63,13 @@ public class MainAppFX extends Application {
         
         if(main.loadPreviousConnectionProperties())
 		{
+        	log.debug("loaded settings");
         	main.diplayInboxMessages();
+        	log.debug("displaying emails");
         	main.initializeTableViewwListners();
+        	log.debug("initialize views");
             primaryStage.show();
+            log.debug("app started");
 		}
 
         

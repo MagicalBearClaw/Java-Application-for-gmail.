@@ -7002,3 +7002,781 @@ javafx.fxml.LoadException: Error resolving onAction='#combocBoxSearchSelectionCh
 [ERROR] 2017-01-15 15:09:59.286 [JavaFX Application Thread] FXMLGmailApplicationController - could not connect to database.
 [DEBUG] 2017-01-15 15:11:08.979 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
 [DEBUG] 2017-01-15 15:20:03.705 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 15:30:16.681 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 15:31:19.658 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 15:31:19.987 [JavaFX Application Thread] MainAppFX - loaded settings
+[DEBUG] 2017-01-15 15:32:58.087 [JavaFX Application Thread] MainAppFX - displaying emails
+[DEBUG] 2017-01-15 15:32:58.088 [JavaFX Application Thread] MainAppFX - initialize views
+[DEBUG] 2017-01-15 15:32:58.358 [JavaFX Application Thread] MainAppFX - app started
+[DEBUG] 2017-01-15 15:33:35.330 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:33:41.805 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:33:41.806 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:33:41.806 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:33:41.807 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <!doctype html public "-//w3c//dtd xhtml 1.0 transitional //en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html><head><style type="text/css">@media screen and (max-width:480px){.background_inner{padding:0!important;background:#fff!important}.container{padding:0 8px!important}.footer_container{border-top:1px solid #e2e2e2!important}}</style></head><body><html><body style="width:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0" width="100%"><table cellpadding="0" border="0" cellspacing="0" style='border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; background:#eee; font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; font-size:13px; width:100%; height:100%; text-align:left' width="100%" align="left" height="100%"><tbody><tr><td bgcolor="#eee" align="center" style="border-collapse:collapse; background:#eee; padding:32px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr><td bgcolor="#fff" align="left" style="border-collapse:collapse; background:#fff; padding:32px; width:525px; height:100%; border-radius:3px" width="525" height="100%"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody>
+<tr><td style="border-collapse:collapse; border-bottom:1px solid #e2e2e2; padding-bottom:16px; width:100%" width="100%">
+<span style="color:white; font-size:1px; display:block;">Answer: The equation x^2=2^x has two "obvious" solutions: x=2 and  x=4.&#8203; They a.&#8203;.&#8203;.&#8203;</span><table cellpadding="0" width="100%" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr></tr>
+<tr style="display:inline-block">
+<td style="border-collapse:collapse; padding:2px 16px 0 6px; border-right:1px solid #eee"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid&amp;request_id=517476293433130883&amp;aoty=7&amp;et=2&amp;ty_data&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty&amp;click_pos=0&amp;st=1481227549970021&amp;source&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><img width="91" alt="Quora" src="https://qsf.ec.quoracdn.net/-3-images.logo.email_new_2x.pnga46c9b4e1271ee90.png" height="26" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0"></a></td>
+<td style="border-collapse:collapse; padding-left:16px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; color:#333; line-height:1.25; font-weight:bold; letter-spacing:.25px; font-size:17px">Top Stories from Your Feed</td></tr>
+<tr><td style="border-collapse:collapse; font-size:15px; line-height:1.4; color:#999">Your Quora Digest</td></tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+</td></tr>
+<tr><td style="border-collapse:collapse"></td></tr>
+<tr id="simple-content-row"><td bgcolor="#ffffff" style="border-collapse:collapse"><table cellpadding="0" border="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" cellspacing="0" width="100%"><tbody><tr>
+<td style="border-collapse:collapse; width:100%" width="100%"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse">
+<div id="__w2_FguEjms_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wxfDF8Mjk2ODkwOCIsICJ0eXBlIjogMzN9&amp;aoid=3IcjQSeFPEU&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=42MKMIrQm36&amp;ty=1&amp;click_pos=1&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>How do you solve <span>[math]x^2=2^x[/math]</span> analytically?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=oMy1bsVkro7&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=42MKMIrQm36&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=1&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="cdETeJ">
+<div id="__w2_P7CgluS_menu"><div id="__w2_P7CgluS_menu_contents"> </div></div>
+<span id="__w2_P7CgluS_link"><img src="https://qph.ec.quoracdn.net/main-thumb-11487-50-vcrpsihcpcxpjghubcgexcruxkfexoqy.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Alon Amit" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=oMy1bsVkro7&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=42MKMIrQm36&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=1&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Alon Amit</a><span>, Mathcircler and Origamist.</span>
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=42MKMIrQm36&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=42MKMIrQm36&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=1&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Written Aug 14, 2013</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wxfDF8Mjk2ODkwOCIsICJ0eXBlIjogMzN9&amp;aoid=42MKMIrQm36&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=42MKMIrQm36&amp;ty=1&amp;click_pos=1&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="vrhcmr"><div id="__w2_ZcCWIaL_truncated">
+<div style="display:inline"><span><div><img src="https://qph.ec.quoracdn.net/main-qimg-3dd1ae91927c0455a2ca92ad540bcf54?convert_to_webp=true" master_src="https://qph.ec.quoracdn.net/main-qimg-3dd1ae91927c0455a2ca92ad540bcf54?convert_to_webp=true" master_w="367" master_h="225" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; max-width:200px; max-height:100px; float:left; margin-right:5px; border-style:none"></div></span></div>
+<span>The equation <span>[math]x^2=2^x[/math]</span> has two "obvious" solutions: <span>[math]x=2[/math]</span> and <span>[math]x=4[/math]</span>. They are "obvious" because they are relatively easy to find by sheer guessing or by sketching the graphs of the two funct...</span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wxfDF8Mjk2ODkwOCIsICJ0eXBlIjogMzN9&amp;aoid=42MKMIrQm36&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=42MKMIrQm36&amp;ty=1&amp;click_pos=1&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_qPSc7LW_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wyfDF8MzE5MTk2MjEiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=aOyteGPmt5U&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=UvmTc6FrZ8&amp;ty=1&amp;click_pos=2&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>Which country is the rudest and which country is the friendliest to tourists?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=3D3OgAofvmZ&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=UvmTc6FrZ8&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=2&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="DnsCRr">
+<div id="__w2_zgWTRh2_menu"><div id="__w2_zgWTRh2_menu_contents"> </div></div>
+<span id="__w2_zgWTRh2_link"><img src="https://qph.ec.quoracdn.net/main-thumb-206206503-50-vgonrrirxgzobjjndngteidjmsfozjrf.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Ranggalih D. Han" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=3D3OgAofvmZ&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=UvmTc6FrZ8&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=2&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Ranggalih D. Han</a><span>, Student, Linguist &amp; Pianist from Indonesia</span>
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=UvmTc6FrZ8&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=UvmTc6FrZ8&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=2&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Updated Tue</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wyfDF8MzE5MTk2MjEiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=UvmTc6FrZ8&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=UvmTc6FrZ8&amp;ty=1&amp;click_pos=2&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="HrSDrc"><div id="__w2_mXiWmSG_truncated">
+<div style="display:inline"><span><div><img src="https://qph.ec.quoracdn.net/main-qimg-cd680bf5a1826b807cd89664c51bb1aa-c?convert_to_webp=true" master_src="https://qph.ec.quoracdn.net/main-qimg-410f18c470d6bcb734fd8e71ba49ec27-c?convert_to_webp=true" master_w="1600" master_h="1200" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; max-width:200px; max-height:100px; float:left; margin-right:5px; border-style:none"></div></span></div>
+<span><p style="margin:1em 0; display:inline"><i>Oh god.</i></p>
+<p style="margin:1em 0; display:inline"><i>I&#8217;ve traveled across nations, and most of them are just average (Not so good, not so bad). But let me conclude what I&#8217;ve got so far;</i></p>
+<p style="margin:1em 0; display:inline"><b>Friendliest: </b><b><i>JAPAN</i></b></p>
+<p style="margin:1em 0; display:inline">I swear to god,...</p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wyfDF8MzE5MTk2MjEiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=UvmTc6FrZ8&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=UvmTc6FrZ8&amp;ty=1&amp;click_pos=2&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_NRrCiye_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px">From a recent session</td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wzfDF8MzIwNDYyMTQiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=XNdTc1iNrPa&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=bHwmdDRzAhS&amp;ty=1&amp;click_pos=3&amp;st=1481227549970021&amp;source=7&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>What tactics do billionaires and world-stage performers use to get ahead?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=z9ihydz1eI7&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=bHwmdDRzAhS&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=3&amp;st=1481227549970021&amp;source=7&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="IjgnTb">
+<div id="__w2_bWTTJL1_menu"><div id="__w2_bWTTJL1_menu_contents"> </div></div>
+<span id="__w2_bWTTJL1_link"><img src="https://qph.ec.quoracdn.net/main-thumb-45627-50-cqxyclnissxszwpugtfakojtnmvcjnje.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Tim Ferriss" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=z9ihydz1eI7&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=bHwmdDRzAhS&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=3&amp;st=1481227549970021&amp;source=7&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Tim Ferriss</a><span>, Author of 3 #1 NYT/WSJ bestsellers (e.g. 4-Hour Workweek), investor (e.g. Uber)</span><img src="https://qsf.ec.quoracdn.net/-3-images.icons.white_check.pngf5467dafd75cc763.png" title="Verified User" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; height:9px; width:9px; background-color:#2b6dad; border-radius:50%; padding:2px; vertical-align:middle; margin-left:3px; margin-bottom:3px" width="9" bgcolor="#2b6dad" height="9">
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=bHwmdDRzAhS&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=bHwmdDRzAhS&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=3&amp;st=1481227549970021&amp;source=7&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Written Wed</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wzfDF8MzIwNDYyMTQiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=bHwmdDRzAhS&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=bHwmdDRzAhS&amp;ty=1&amp;click_pos=3&amp;st=1481227549970021&amp;source=7&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="nKyHxU"><div id="__w2_AxIPafn_truncated">
+<span><p style="margin:1em 0; display:inline">The first thing to keep in mind is that world-class performers (including billionaires) aren&#8217;t perfect. Like all humans, they are flawed creatures, but they&#8217;ve figured out ...</p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wzfDF8MzIwNDYyMTQiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=bHwmdDRzAhS&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=bHwmdDRzAhS&amp;ty=1&amp;click_pos=3&amp;st=1481227549970021&amp;source=7&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_n8hxom0_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w0fDF8MzE4NzM0ODciLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=VzPVt3WL4ZS&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=LNTxDNSS2Ly&amp;ty=1&amp;click_pos=4&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>What are some of the best letters of recommendation for undergrad admission ever?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=XpGMDvqksfQ&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=LNTxDNSS2Ly&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=4&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="KfWSrE">
+<div id="__w2_nxj1Xlt_menu"><div id="__w2_nxj1Xlt_menu_contents"> </div></div>
+<span id="__w2_nxj1Xlt_link"><img src="https://qph.ec.quoracdn.net/main-thumb-137044240-50-zbwktgaxtiqmjnbooeirggtgadhajgtz.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Tuan Nguyen" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse"><a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=XpGMDvqksfQ&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=LNTxDNSS2Ly&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=4&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Tuan Nguyen</a></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=LNTxDNSS2Ly&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=LNTxDNSS2Ly&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=4&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Written Sun</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w0fDF8MzE4NzM0ODciLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=LNTxDNSS2Ly&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=LNTxDNSS2Ly&amp;ty=1&amp;click_pos=4&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="gsqoce"><div id="__w2_a1iFRxE_truncated">
+<div style="display:inline"><span><div><img src="https://qph.ec.quoracdn.net/main-qimg-47e7d7c95d21baeb34b72263b80dbb9a-c?convert_to_webp=true" master_src="https://qph.ec.quoracdn.net/main-qimg-f984948425bc81d84efca3db721e62fd-c?convert_to_webp=true" master_w="950" master_h="534" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; max-width:200px; max-height:100px; float:left; margin-right:5px; border-style:none"></div></span></div>
+<span><p style="margin:1em 0; display:inline"><b>John Nash's recommendation letter for Princeton may be the best of all time (Application for Graduate Admission)</b></p>
+<p style="margin:1em 0; display:inline"><i>IMAGE: CHINAFOTOPRESS/GETTY IMAGES</i></p>
+<p style="margin:1em 0; display:inline"><i>BY </i>BRIAN KOERBER<i> JUN 07, 2...</i></p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w0fDF8MzE4NzM0ODciLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=LNTxDNSS2Ly&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=LNTxDNSS2Ly&amp;ty=1&amp;click_pos=4&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_m0QWDGC_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w1fDF8MzE1NDE2MzAiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=MyAbfpZcsI7&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=dPqmEaoWTeW&amp;ty=1&amp;click_pos=5&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>Why is JavaScript so popular when it can be stolen so easily?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=Y5ZzV16YZYH&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=dPqmEaoWTeW&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=5&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="ECckTE">
+<div id="__w2_sb2wR77_menu"><div id="__w2_sb2wR77_menu_contents"> </div></div>
+<span id="__w2_sb2wR77_link"><img src="https://qph.ec.quoracdn.net/main-thumb-4739544-50-dczplwhginjvwssukhpbbonkgpvsdqkm.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Carlos Matias La Borde" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=Y5ZzV16YZYH&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=dPqmEaoWTeW&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=5&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Carlos Matias La Borde</a><span>, coder and product guy</span>
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=dPqmEaoWTeW&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=dPqmEaoWTeW&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=5&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Written Nov 28</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w1fDF8MzE1NDE2MzAiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=dPqmEaoWTeW&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=dPqmEaoWTeW&amp;ty=1&amp;click_pos=5&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="opbDQU"><div id="__w2_bQCRvNZ_truncated">
+<span><p style="margin:1em 0; display:inline">What? Give me a second to figure out how to respond to this&#8230;.</p>
+<p style="margin:1em 0; display:inline">Uh&#8230; Uh&#8230;</p>
+<p style="margin:1em 0; display:inline">OK so first of all source code isn't very valuable, unless you're directly selling a product that is com...</p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w1fDF8MzE1NDE2MzAiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=dPqmEaoWTeW&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=dPqmEaoWTeW&amp;ty=1&amp;click_pos=5&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_wEZIYsu_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w2fDF8MTkzMjQ3OSIsICJ0eXBlIjogMzN9&amp;aoid=FJzZCnyLCfq&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=8O8Wc0H207a&amp;ty=1&amp;click_pos=6&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>What's the value of <span>[math]\int^{\pi}_{-\pi} \sqrt{1&#160; +x^2} \, dx[/math]</span>?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=qBHI8Ppuqbi&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=8O8Wc0H207a&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=6&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="hEZMbT">
+<div id="__w2_fETIA67_menu"><div id="__w2_fETIA67_menu_contents"> </div></div>
+<span id="__w2_fETIA67_link"><img src="https://qph.ec.quoracdn.net/main-thumb-2437289-50-adgnjpbtfyjdkhimiqeuprgwdwmrifpi.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Jessica Su" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=qBHI8Ppuqbi&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=8O8Wc0H207a&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=6&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Jessica Su</a><span>, CS PhD student at Stanford</span>
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=8O8Wc0H207a&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=8O8Wc0H207a&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=6&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Updated Jan 11, 2013</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w2fDF8MTkzMjQ3OSIsICJ0eXBlIjogMzN9&amp;aoid=8O8Wc0H207a&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=8O8Wc0H207a&amp;ty=1&amp;click_pos=6&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="AJiDyK"><div id="__w2_pb9GK2m_truncated">
+<span>In this answer I will show you how to solve this problem analytically.<br><br><b>Part 0: Preliminaries</b><br>...</span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w2fDF8MTkzMjQ3OSIsICJ0eXBlIjogMzN9&amp;aoid=8O8Wc0H207a&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=8O8Wc0H207a&amp;ty=1&amp;click_pos=6&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_S1wbArs_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w3fDF8MzEzMzc2NjgiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=mAB3EF7eMkK&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=8PqSkZYXYHS&amp;ty=1&amp;click_pos=7&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>What is the most illegal or unethical code you ever wrote?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=4eQube6RhFB&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=8PqSkZYXYHS&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=7&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="mjNfKM">
+<div id="__w2_ioPhRTK_menu"><div id="__w2_ioPhRTK_menu_contents"> </div></div>
+<span id="__w2_ioPhRTK_link"><img src="https://qsf.ec.quoracdn.net/-3-images.new_grid.profile_pic_default_small.png902da2b339fedf49.png" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="David Henstock" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=4eQube6RhFB&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=8PqSkZYXYHS&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=7&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">David Henstock</a><span>, works at Logica</span>
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=8PqSkZYXYHS&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=8PqSkZYXYHS&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=7&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Updated 10h ago</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w3fDF8MzEzMzc2NjgiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=8PqSkZYXYHS&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=8PqSkZYXYHS&amp;ty=1&amp;click_pos=7&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="tgMdzV"><div id="__w2_UcmRsgb_truncated">
+<div style="display:inline"><span><div><img src="https://qph.ec.quoracdn.net/main-qimg-b7439cb8c83943e63f070751c3c5bf1c-c?convert_to_webp=true" master_src="https://qph.ec.quoracdn.net/main-qimg-9d1d90a0a68a0aaebd01f3ab92ea1f23-c?convert_to_webp=true" master_w="1024" master_h="1024" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; max-width:200px; max-height:100px; float:left; margin-right:5px; border-style:none"></div></span></div>
+<span><p style="margin:1em 0; display:inline">I made a virus by accident&#8230;</p>
+<p style="margin:1em 0; display:inline">I was learning a new language called &#8216;smalltalk&#8217; at the time it was the first only truly OOP language (or that&#8217;s what I was told).</p>
+<p style="margin:1em 0; display:inline">Anyway, I learn...</p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w3fDF8MzEzMzc2NjgiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=8PqSkZYXYHS&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=8PqSkZYXYHS&amp;ty=1&amp;click_pos=7&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_kcmWZqD_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w4fDF8MjI5Mjg4OTMiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=dghC4PVpeq8&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=VNoH48Ns7ci&amp;ty=1&amp;click_pos=8&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>What is <span>[math]0\times\infty\times1^{\infty}[/math]</span>?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=zO9wxXRBbc2&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=VNoH48Ns7ci&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=8&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="hTehuT">
+<div id="__w2_oBCimPD_menu"><div id="__w2_oBCimPD_menu_contents"> </div></div>
+<span id="__w2_oBCimPD_link"><img src="https://qph.ec.quoracdn.net/main-thumb-55858495-50-mfwbikgfncaszwbyrvtximbecnshcmnd.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Alan Bustany" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse">
+<a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=zO9wxXRBbc2&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=VNoH48Ns7ci&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=8&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Alan Bustany</a><span>, Trinity Wrangler, Poker Player</span>
+</td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=VNoH48Ns7ci&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=VNoH48Ns7ci&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=8&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Written May 21</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w4fDF8MjI5Mjg4OTMiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=VNoH48Ns7ci&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=VNoH48Ns7ci&amp;ty=1&amp;click_pos=8&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="ZtpNux"><div id="__w2_ZYHZFya_truncated">
+<span><blockquote><p style="margin:1em 0; display:inline"><i>What is </i><span>[math]0\times\infty\times1^{\infty}[/math]</span><i>?</i></p></blockquote>
+<p style="margin:1em 0; display:inline">It is a <b>meaningless</b> mathematical expression just like &#8220;I am foo is you bar&#8221; is a meaningless English expression. It may have many aspects that appear to make it me...</p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w4fDF8MjI5Mjg4OTMiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=VNoH48Ns7ci&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=VNoH48Ns7ci&amp;ty=1&amp;click_pos=8&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_C5PJny0_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w5fDF8MzAyMjk2MTUiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=89tstjk3dQZ&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=M2LUXzLWJ0q&amp;ty=1&amp;click_pos=9&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>What's the most inexplicable experience you've ever had?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=Ml1LPQjaDmS&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=M2LUXzLWJ0q&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=9&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="SriSUq">
+<div id="__w2_zJAtluY_menu"><div id="__w2_zJAtluY_menu_contents"> </div></div>
+<span id="__w2_zJAtluY_link"><img src="https://qph.ec.quoracdn.net/main-thumb-80228979-50-rmfsbkfafrfxciyyovtjxpehaeamkzrm.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Tim Lloyd" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse"><a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=Ml1LPQjaDmS&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=M2LUXzLWJ0q&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=9&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Tim Lloyd</a></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=M2LUXzLWJ0q&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=M2LUXzLWJ0q&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=9&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Written Nov 3</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w5fDF8MzAyMjk2MTUiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=M2LUXzLWJ0q&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=M2LUXzLWJ0q&amp;ty=1&amp;click_pos=9&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="qTUXuL"><div id="__w2_Uy99Eoq_truncated">
+<span><p style="margin:1em 0; display:inline">I was walking down the Strand in London with a girlfriend in 1990, and she looked up and suddenly gasped and said something about a fire. I looked around and saw nothing, s...</p></span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3w5fDF8MzAyMjk2MTUiLCAidHlwZSI6IDMzfQ%3D%3D&amp;aoid=M2LUXzLWJ0q&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=M2LUXzLWJ0q&amp;ty=1&amp;click_pos=9&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+<div id="__w2_Wp197K1_actionable"><table border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0; width:100%" width="100%"><tbody><tr><td style="border-collapse:collapse; padding:16px 0; border-bottom:1px solid #e2e2e2"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td valign="top" style="border-collapse:collapse"></td>
+<td style="border-collapse:collapse; font-size:11px; color:#999; letter-spacing:.5px"></td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wxMHwxfDI1OTAxMjgxIiwgInR5cGUiOiAzM30%3D&amp;aoid=I7wV4LaTab7&amp;request_id=517476293433130883&amp;aoty=2&amp;et=2&amp;al_pri=QuestionLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=omPkcLbvI9Y&amp;ty=1&amp;click_pos=10&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; display:block; font-size:19px; color:#333; letter-spacing:-0.5px; line-height:1.25; font-weight:bold; color:#155fad"><span>How do I learn coding. How much can I expect to learn the first night?</span></a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<tr><td style="border-collapse:collapse; padding:8px 0"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody><tr>
+<td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=XRWJRNwNtju&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=omPkcLbvI9Y&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=10&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none"><div id="XeTxDS">
+<div id="__w2_vOZC83V_menu"><div id="__w2_vOZC83V_menu_contents"> </div></div>
+<span id="__w2_vOZC83V_link"><img src="https://qph.ec.quoracdn.net/main-thumb-37984270-50-dbynnedhnjnlfqdrbjhitdmgafewiriz.jpeg" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; display:block; height:40px; width:40px; border-radius:100px; border-style:none" height="40" alt="Garry Taylor" width="40"></span>
+</div></a></td>
+<td style="border-collapse:collapse; padding-left:8px"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0"><tbody>
+<td style="border-collapse:collapse"></td>
+<tr><td style="border-collapse:collapse"><a style="text-decoration:none; color:#333333; font-weight:inherit" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=XRWJRNwNtju&amp;request_id=517476293433130883&amp;aoty=3&amp;et=2&amp;ty_data=omPkcLbvI9Y&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=10&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Garry Taylor</a></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid=omPkcLbvI9Y&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;ty_data=omPkcLbvI9Y&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty=1&amp;click_pos=10&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="text-decoration:none; color:#999">Updated Aug 15</a></td></tr>
+</tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td style='border-collapse:collapse; display:block; font-family:Georgia,Times,"Times New Roman",serif; font-size:15px; line-height:1.4'><a style="text-decoration:none; color:#333333" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wxMHwxfDI1OTAxMjgxIiwgInR5cGUiOiAzM30%3D&amp;aoid=omPkcLbvI9Y&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ItemContentClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=omPkcLbvI9Y&amp;ty=1&amp;click_pos=10&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4"><div id="MqpVPu"><div id="__w2_IfN9LF0_truncated">
+<span><p style="margin:1em 0; display:inline">Memorize this:</p>#include &lt;stdio.h&gt;<br><br>int main() { ...</span>&#160;<a style="text-decoration:none; color:#538DC2" href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;al_imp=eyJoYXNoIjogIjUxNzQ3NjI5MzQzMzEzMDg4M3wxMHwxfDI1OTAxMjgxIiwgInR5cGUiOiAzM30%3D&amp;aoid=omPkcLbvI9Y&amp;request_id=517476293433130883&amp;aoty=1&amp;et=2&amp;al_pri=ReadMoreLinkClickthrough&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty_data=omPkcLbvI9Y&amp;ty=1&amp;click_pos=10&amp;st=1481227549970021&amp;source=1&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4">Read More&#160;&#187;</a>
+</div></div></a></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table></div>
+</td></tr>
+<tr><td height="10" style="border-collapse:collapse"><img src="https://www.quora.com/qemail/mark_read?src=1&amp;uid=bCrH5vgDixu&amp;request_id=517476293433130883&amp;st=1481227549970021&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;et=2&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021" width="1" height="1" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic"></td></tr>
+</tbody></table></td>
+<td width="30" style="border-collapse:collapse">&#160;</td>
+</tr></tbody></table></td></tr>
+<tr><td style="border-collapse:collapse"><a href="https://www.quora.com/qemail/track_click?uid=bCrH5vgDixu&amp;aoid&amp;request_id=517476293433130883&amp;aoty=7&amp;et=2&amp;ty_data&amp;id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;ct=1481227549970021&amp;src=1&amp;ty&amp;click_pos=0&amp;st=1481227549970021&amp;source&amp;stories=1_42MKMIrQm36%7C1_UvmTc6FrZ8%7C1_bHwmdDRzAhS%7C1_LNTxDNSS2Ly%7C1_dPqmEaoWTeW%7C1_8O8Wc0H207a%7C1_8PqSkZYXYHS%7C1_VNoH48Ns7ci%7C1_M2LUXzLWJ0q%7C1_omPkcLbvI9Y&amp;v=0&amp;aty=4" style="display:block; font-size:15px; line-height:1.4; font-weight:500; outline:0; padding:8px 0; text-align:center; text-decoration:none; text-shadow:none; cursor:pointer; box-shadow:0 1px 2px rgba(0,0,0,0.15); border:1px solid #75a6d4; background:#dfeffa; color:#2770bd; border-radius:3px" align="center">Read More in Your Feed</a></td></tr>
+<tr><td style="border-collapse:collapse"><table cellpadding="0" border="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0; mso-table-rspace:0">
+<tr><td style="border-collapse:collapse"><div style="text-align:center; color:#999; margin-top:16px" align="center">
+<div>Follow Quora on:</div>
+<a href="https://www.quora.com/l/pok8I3niH7pmeOhYGqEbTYt5fSKeBOBBemASWBm7f0zDNxDmv1" style="text-decoration:none"><img src="https://qsf.ec.quoracdn.net/-3-images.new_grid.facebook_white_bg_2x.pngfb26afecbab5d0eb.png" alt="Facebook" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; width:32px; height:32px; margin-right:8px" width="32" height="32"></a><a href="https://www.quora.com/l/1t6NqcN-EDeZ8Sx6YcqrmQlhOUuieutU4ewuemIoU~gkrkZuv1" style="text-decoration:none"><img src="https://qsf.ec.quoracdn.net/-3-images.icons.twitter_bird.pngaeb6700e9ac91e54.png" alt="Twitter" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; width:30px; height:24px; margin-bottom:4px" width="30" height="24"></a>
+</div></td></tr>
+<tr><td style="border-collapse:collapse"><div style="text-align:center; color:#999; margin-top:16px" align="center">
+<div>Get the App for iOS and Android</div>
+<a href="https://www.quora.com/app?campaign=email_footer_links" style="text-decoration:none"><img src="https://qsf.ec.quoracdn.net/-3-images.apple_touch_icon.png351b68a386d511d9.png" alt="Quora" style="outline:0; text-decoration:none; -ms-interpolation-mode:bicubic; border:0; width:32px; height:32px; border-radius:3px; margin-top:8px" width="32" height="32"></a>
+</div></td></tr>
+<tr><td style="border-collapse:collapse; width:100%; font-size:11px; color:#999; padding-top:16px" width="100%">
+<span>This email was sent by Quora (650 Castro Street #450, Mountain View, CA 94041). </span><span>If you don't want to receive these emails in the future, please <a href="https://www.quora.com/email_optout/qemail_optout?email_track_id=sbztXKYlmrWHT_sC6Oosow%3D%3D&amp;code=9fd60da974283ee1fbd32b68a1d12b37&amp;type=2&amp;email=merkingpanada%40gmail.com" style="text-decoration:underline; color:#999">unsubscribe</a>.</span>
+</td></tr>
+</table></td></tr>
+</tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+</body></html>
+[DEBUG] 2017-01-15 15:33:41.861 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:38:14.691 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[DEBUG] 2017-01-15 15:38:14.991 [JavaFX Application Thread] MainAppFX - loaded settings
+[DEBUG] 2017-01-15 15:38:31.246 [JavaFX Application Thread] MainAppFX - displaying emails
+[DEBUG] 2017-01-15 15:38:31.247 [JavaFX Application Thread] MainAppFX - initialize views
+[DEBUG] 2017-01-15 15:38:31.503 [JavaFX Application Thread] MainAppFX - app started
+[DEBUG] 2017-01-15 15:38:45.937 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:38:47.966 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:38:47.967 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:38:47.967 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:38:47.968 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:38:48.012 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:38:49.658 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:38:51.035 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:38:51.036 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:38:51.036 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:38:51.037 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:38:51.043 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:38:51.899 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id2
+[DEBUG] 2017-01-15 15:38:51.900 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:38:51.900 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:39:03.112 [JavaFX Application Thread] FXMLGmailApplicationController - foldername is Sent
+[DEBUG] 2017-01-15 15:39:03.113 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id-1
+[DEBUG] 2017-01-15 15:39:03.114 [JavaFX Application Thread] FXMLGmailApplicationController - view message for folderSent
+[DEBUG] 2017-01-15 15:39:13.140 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id2
+[DEBUG] 2017-01-15 15:39:13.140 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:39:13.140 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:41:48.552 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:41:56.943 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:41:56.943 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:41:56.944 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:41:56.944 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:41:56.947 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:42:06.100 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id2
+[DEBUG] 2017-01-15 15:42:06.101 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:42:06.101 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:42:06.892 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:42:06.892 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:42:06.892 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:42:06.893 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:42:06.899 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:42:58.450 [JavaFX Application Thread] FXMLGmailApplicationController - html bean index is1
+[DEBUG] 2017-01-15 15:42:58.450 [JavaFX Application Thread] FXMLGmailApplicationController - the bean from isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:42:58.532 [JavaFX Application Thread] FXMLGmailApplicationController - the bean from isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:42:58.532 [JavaFX Application Thread] FXMLMessageComposerController - new message isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:42:58.532 [JavaFX Application Thread] FXMLMessageComposerController - html text is<table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:42:58.532 [JavaFX Application Thread] FXMLMessageComposerController - text isEscape from Tarkov
+
+Dear users,
+
+We'd like to present the new set of screenshots. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.
+http://www.escapefromtarkov.com/#media
+
+Also, we would like to remind you of the recent changes in the forum rules (http://forum.escapefromtarkov.com/topic/4-forum-rules/) and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.
+
+And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.
+
+Best regards,
+Escape from Tarkov team.
+www.escapefromtarkov.com
+info@battlestategames.com
+
+Unsubscribe - http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53
+
+[DEBUG] 2017-01-15 15:43:19.739 [JavaFX Application Thread] FXMLGmailApplicationController - html bean index is1
+[DEBUG] 2017-01-15 15:43:19.739 [JavaFX Application Thread] FXMLGmailApplicationController - the bean from isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:43:19.769 [JavaFX Application Thread] FXMLGmailApplicationController - the bean from isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:43:19.769 [JavaFX Application Thread] FXMLMessageComposerController - new message isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:43:19.769 [JavaFX Application Thread] FXMLMessageComposerController - html text is<table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:43:19.769 [JavaFX Application Thread] FXMLMessageComposerController - text isEscape from Tarkov
+
+Dear users,
+
+We'd like to present the new set of screenshots. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.
+http://www.escapefromtarkov.com/#media
+
+Also, we would like to remind you of the recent changes in the forum rules (http://forum.escapefromtarkov.com/topic/4-forum-rules/) and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.
+
+And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.
+
+Best regards,
+Escape from Tarkov team.
+www.escapefromtarkov.com
+info@battlestategames.com
+
+Unsubscribe - http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53
+
+[DEBUG] 2017-01-15 15:44:09.723 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:44:10.472 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:44:10.473 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:44:10.473 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:44:10.474 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:44:10.478 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:44:11.210 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:44:14.763 [JavaFX Application Thread] FXMLGmailApplicationController - html bean index is0
+[DEBUG] 2017-01-15 15:44:16.730 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:44:16.731 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:44:16.731 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:44:16.732 [JavaFX Application Thread] FXMLGmailApplicationController - the new html before writting is: <table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:44:16.735 [JavaFX Application Thread] FXMLGmailApplicationController - selection change end
+[DEBUG] 2017-01-15 15:44:17.699 [JavaFX Application Thread] FXMLGmailApplicationController - html bean index is1
+[DEBUG] 2017-01-15 15:44:17.699 [JavaFX Application Thread] FXMLGmailApplicationController - the bean from isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:44:17.725 [JavaFX Application Thread] FXMLGmailApplicationController - the bean from isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:44:17.725 [JavaFX Application Thread] FXMLMessageComposerController - new message isno-reply@escapefromtarkov.com
+[DEBUG] 2017-01-15 15:44:17.725 [JavaFX Application Thread] FXMLMessageComposerController - html text is<table align="center" border="0" cellpadding="1" cellspacing="1" style="margin: 0 auto;white-space: normal;border-collapse: collapse;width: 621px;color:#ffffff;background:#000000;">
+<tbody>
+  <tr>
+    <td>
+      <img alt="" height="227" src="http://www.escapefromtarkov.com/uploads/newsletter/header.jpg" width="621" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 0 40px 40px;font-size: 10pt;color:#fef7db;font-family:tahoma,geneva,sans-serif;line-height: 1.4em;">
+<p>Dear users,</p>
+
+<p>We'd like to present the new <a  href="http://www.escapefromtarkov.com/#media" style="font-weight:bold;color: #ad9464;text-decoration:underline">set of screenshots</a>. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.</p>
+
+<p>Also, we would like to remind you of the recent changes in <a  href="http://forum.escapefromtarkov.com/topic/4-forum-rules/" style="font-weight:bold;color: #ad9464;text-decoration:underline">the forum rules</a> and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.</p>
+
+<p>And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="line-height: 1.4em;font-family:tahoma,geneva,sans-serif;padding: 40px;font-size: 10pt; color: rgb(254, 247, 219); height: 65px; vertical-align: bottom;">
+							<div style="float:right;font-family: tahoma,geneva,sans-serif;">
+								<a href="https://www.facebook.com/escapefromtarkov/"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/fb.png" width="30" /></a>
+								<a href="https://vk.com/escapefromtarkov"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/vk.png" width="30" /></a>
+								<a href="https://twitter.com/bstategames"><img alt="" height="30" src="http://www.escapefromtarkov.com/uploads/newsletter/tw.png" width="30" /></a>
+	<a href="http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53" style="display:block;text-align:right;margin-top:20px;padding-right:5px;color: #ad9464;">Unsubscribe</a>
+							</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Best regards,</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+	Escape from Tarkov team.</div>
+							<div style="font-family: tahoma,geneva,sans-serif;">
+								<a href="http://www.escapefromtarkov.com" style="color: #ad9464;">http://www.escapefromtarkov.com</a><br />
+								<a href="mailto:info@battlestategames.com" style="color: #ad9464;">info@battlestategames.com</a></div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+[DEBUG] 2017-01-15 15:44:17.725 [JavaFX Application Thread] FXMLMessageComposerController - text isEscape from Tarkov
+
+Dear users,
+
+We'd like to present the new set of screenshots. They are showcasing the vicinity of the Customs Office location. featuring previously unshown places, new weapon mods, improved lighting and weather effects.
+http://www.escapefromtarkov.com/#media
+
+Also, we would like to remind you of the recent changes in the forum rules (http://forum.escapefromtarkov.com/topic/4-forum-rules/) and recommend you to review the changes. Particularly, all the points are now expanded in more detail, including penalties imposed for violation of the rules.
+
+And, most importantly, we are now busy with the preparation of a new stream - its date will be announced in the nearest future.
+
+Best regards,
+Escape from Tarkov team.
+www.escapefromtarkov.com
+info@battlestategames.com
+
+Unsubscribe - http://www.escapefromtarkov.com/newsletter/unsubscribe/41623/e80ed776d353829ab0050aae8a15bb53
+
+[DEBUG] 2017-01-15 15:45:13.863 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:45:16.128 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id1
+[DEBUG] 2017-01-15 15:45:16.129 [JavaFX Application Thread] FXMLGmailApplicationController - attachements size0
+[DEBUG] 2017-01-15 15:45:16.130 [JavaFX Application Thread] FXMLGmailApplicationController - combobox size0
+[DEBUG] 2017-01-15 15:45:16.974 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:45:17.556 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id0
+[DEBUG] 2017-01-15 15:45:19.052 [JavaFX Application Thread] FXMLGmailApplicationController - the index selected id-1
+[DEBUG] 2017-01-15 15:45:19.690 [JavaFX Application Thread] FXMLGmailApplicationController - foldername is Sent
+[DEBUG] 2017-01-15 15:45:19.690 [JavaFX Application Thread] FXMLGmailApplicationController - view message for folderSent
+[DEBUG] 2017-01-15 15:45:23.392 [JavaFX Application Thread] FXMLGmailApplicationController - foldername is Sent
+[DEBUG] 2017-01-15 15:45:23.392 [JavaFX Application Thread] FXMLGmailApplicationController - view message for folderSent
+[DEBUG] 2017-01-15 15:45:24.374 [JavaFX Application Thread] FXMLGmailApplicationController - foldername is Folders
+[DEBUG] 2017-01-15 15:45:24.374 [JavaFX Application Thread] FXMLGmailApplicationController - view message for folderFolders
+[DEBUG] 2017-01-15 15:52:57.757 [JavaFX Application Thread] FXMLGmailApplicationController - starting cbx text idFrom
+[WARN ] 2017-01-15 15:52:57.763 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 
+[WARN ] 2017-01-15 15:52:57.809 [JavaFX Application Thread] FXMLGmailApplicationController - ioexception in loadPreviousConnectionProperties 

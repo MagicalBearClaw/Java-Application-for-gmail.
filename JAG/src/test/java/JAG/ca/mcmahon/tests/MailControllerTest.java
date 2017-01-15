@@ -39,12 +39,12 @@ public class MailControllerTest
 	public void mailControlerSendAllButAttachmentsValidEmailTest()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "12345^&*", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getBccsProperty().add("markparenteau15@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
-		bean1.getCcsProperty().add("markparenteau15@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 16");
 
 		try
@@ -100,10 +100,10 @@ public class MailControllerTest
 	public void mailControlerSendAllExceptionThrownImap()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "Skrs!!11", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 5");
 		bean1.getAttachmentsProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).create());
 		bean1.getEmbedAttachmentProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).setInline("cat.jpg").create());
@@ -121,10 +121,10 @@ public class MailControllerTest
 	public void mailControlerSendAllExceptionThrownSmtp()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "45^&*", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 5");
 		bean1.getAttachmentsProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).create());
 		bean1.getEmbedAttachmentProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).setInline("cat.jpg").create());
@@ -141,10 +141,10 @@ public class MailControllerTest
 	public void mailControlerSendAllmailTest()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "12345^&*", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 5");
 		bean1.getAttachmentsProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).create());
 		bean1.getEmbedAttachmentProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).setInline("cat.jpg").create());
@@ -201,10 +201,10 @@ public class MailControllerTest
 	public void mailControlerSendAttachmentEmbededValidEmailTest()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "12345^&*", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 3");
 		bean1.getEmbedAttachmentProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).setInline("cat.jpg").create());
 
@@ -260,10 +260,10 @@ public class MailControllerTest
 	public void mailControlerSendAttachmentValidEmailTest()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "12345^&*", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 4");
 		bean1.getAttachmentsProperty().add( EmailAttachment.attachment().bytes(new File("cat.jpg")).create());
 
@@ -319,8 +319,8 @@ public class MailControllerTest
 	public void mailControlerSendMinimumValidEmailTest()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "12345^&*", "mike");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
 
 		try
 		{
@@ -375,14 +375,14 @@ public class MailControllerTest
 	public void mailControlerSendWithSenderEmailAsCCAndBccValidEmailTest()
 	{
 		MailController controller =  new MailController();
-		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "dev2mmjag@gmail.com", "12345^&*", "mike");
-		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "dev1mmjag@gmail.com", "12345^&*", "mike");
-		bean1.getBccsProperty().add("merkingpanada@gmail.com");
-		bean1.getBccsProperty().add("markparenteau15@gmail.com");
-		bean1.getCcsProperty().add("dev1mmjag@gmail.com");
-		bean1.getCcsProperty().add("markparenteau15@gmail.com");
-		bean1.getBccsProperty().add("dev2mmjag@gmail.com");
-		bean1.getCcsProperty().add("dev2mmjag@gmail.com");
+		MailServerConfigurationBean imap =  new MailServerConfigurationBean(993, "imap.gmail.com", "", "", "mike");
+		MailServerConfigurationBean smtp =  new MailServerConfigurationBean(465, "smtp.gmail.com", "", "", "mike");
+		bean1.getBccsProperty().add("");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
+		bean1.getCcsProperty().add("");
+		bean1.getBccsProperty().add("");
+		bean1.getCcsProperty().add("");
 		bean1.setSubject("Hello from test 7");
 
 		try
@@ -433,15 +433,15 @@ public class MailControllerTest
 	public void setUpBeans()
 	{
 		ArrayList<String> tosValid =  new ArrayList<String>();
-		tosValid.add("dev2mmjag@gmail.com");
-		tosValid.add("Sendingtest001@gmail.com");
-		tosValid.add("merkingpanada@gmail.com");
-		tosValid.add("markparenteau15@gmail.com");
+		tosValid.add("");
+		tosValid.add("");
+		tosValid.add("");
+		tosValid.add("");
 		ArrayList<String> tosInvalid =  new ArrayList<String>();
-		tosInvalid.add("dev1mmjag@gmail.com");
-		bean1 =  new MailBean("dev1mmjag@gmail.com", "Hello", "hello person", "<b>hello<b>",1);
+		tosInvalid.add("");
+		bean1 =  new MailBean("", "Hello", "hello person", "<b>hello<b>",1);
 		bean1.getTosProperty().addAll(tosValid);
-		bean2 =  new MailBean("dev1mmjag@gmail.com", "Hello", "hello person22", "<b>hello<b>",1);
+		bean2 =  new MailBean("", "Hello", "hello person22", "<b>hello<b>",1);
 		bean2.getTosProperty().addAll(tosValid);
 	}
 	//tests
