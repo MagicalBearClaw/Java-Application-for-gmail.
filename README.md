@@ -10,4 +10,4 @@ not all email content is supported.
 
 ![Alt text](https://i.gyazo.com/8eee58376f4acaa0391173fcfa4ee5b5.png "Message composer")
 
-![Alt text](https://i.gyazo.com/ea3e61356fcf47a41dcff8a32eaeb511.png "main application")
+![Alt text](https://i.gyazo.com/a6b86661cddadbe8cbf0a3a76fffc2d3.png "main application")
